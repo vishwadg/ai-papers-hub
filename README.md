@@ -104,6 +104,7 @@ The sections below follow the lifecycle of a paper. Use the table of contents to
 - **[Emergent Mind](https://www.emergentmind.com/)** — AI-curated digest of trending CS papers with social-media discussion aggregation.
 - **[Scholar Inbox](https://www.scholar-inbox.com/)** — Free, personalized recommendations across arXiv, bioRxiv, etc. (University of Tübingen).
 - **[AIModels.fyi](https://www.aimodels.fyi/)** — Plain-English summaries of trending papers and models.
+- **[Cool Papers](https://papers.cool/)** — Fast arXiv browser with one-click Kimi/GPT Q&A per paper (Jianlin Su).
 
 ### Search Engines
 - **[Google Scholar](https://scholar.google.com/)** — Broadest coverage; supports keyword and author alerts.
@@ -114,6 +115,7 @@ The sections below follow the lifecycle of a paper. Use the table of contents to
 - **[CORE](https://core.ac.uk/)** — Aggregates open-access papers from thousands of repositories.
 - **[BASE](https://www.base-search.net/)** — 300M+ open documents (Bielefeld).
 - **[OpenAlex](https://openalex.org/)** — Free open catalog of global research.
+- **[The Lens](https://www.lens.org/)** — Free scholarly + patent search over 250M+ works.
 - **[DBLP](https://dblp.org/)** — CS bibliography for author/venue tracking.
 - **[ResearchGate](https://www.researchgate.net/)** — Author-uploaded PDFs.
 
@@ -156,12 +158,15 @@ The sections below follow the lifecycle of a paper. Use the table of contents to
 - **[AI Coffee Break with Letitia](https://www.youtube.com/@AICoffeeBreak)** — Accessible explanations.
 - **[Andrej Karpathy](https://www.youtube.com/@AndrejKarpathy)** — Foundational walkthroughs (build LLM, GPT, tokenizer from scratch).
 - **[3Blue1Brown](https://www.youtube.com/@3blue1brown)** — Math intuition behind ML.
+- **[StatQuest with Josh Starmer](https://www.youtube.com/@statquest)** — Clear breakdowns of ML and stats fundamentals.
+- **[Umar Jamil](https://www.youtube.com/@umarjamilai)** — Implements papers (Transformer, LLaMA, Flash Attention) from scratch in PyTorch.
 
 ### 🎙️ Paper Podcasts
 - **[The Gradient Podcast](https://thegradientpub.substack.com/s/podcast)**
 - **[Latent Space](https://www.latent.space/podcast)** — AI engineering + research.
 - **[Machine Learning Street Talk](https://www.youtube.com/@MachineLearningStreetTalk)**
 - **[TalkRL](https://www.talkrl.com/)** — Reinforcement learning focus.
+- **[Dwarkesh Podcast](https://www.dwarkesh.com/)** — Long-form interviews with AI researchers and lab leaders.
 
 <sub><a href="#-table-of-contents">⬆ Back to top</a></sub>
 
@@ -185,6 +190,8 @@ The sections below follow the lifecycle of a paper. Use the table of contents to
 - **[Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)** — Michael Nielsen's free online book; the gentlest rigorous intro.
 - **[Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book-2nd.html)** — Sutton & Barto, 2nd edition; the canonical RL textbook.
 - **[Dive into Deep Learning](https://d2l.ai/)** — Free interactive book with runnable code (Zhang et al.).
+- **[Understanding Deep Learning](https://udlbook.github.io/udlbook/)** — Simon Prince; free modern textbook with notebooks and slides.
+- **[The Little Book of Deep Learning](https://fleuret.org/francois/lbdl.html)** — François Fleuret; free phone-sized primer.
 
 ### Visual & Interactive Explainers
 - **[Distill.pub](https://distill.pub/)** — Visual research articles.
@@ -196,6 +203,8 @@ The sections below follow the lifecycle of a paper. Use the table of contents to
 - **[Chris Olah's blog](https://colah.github.io/)** — Foundational visual intuition.
 - **[Andrej Karpathy's blog](https://karpathy.github.io/)** — Older deep-learning posts; still widely referenced.
 - **[Transformer Circuits Thread](https://transformer-circuits.pub/)** — Anthropic's interpretability research.
+- **[Transformer Explainer](https://poloclub.github.io/transformer-explainer/)** — Interactive GPT-2 running live in the browser (Georgia Tech).
+- **[LLM Visualization](https://bbycroft.net/llm)** — Brendan Bycroft's 3D walkthrough of GPT inference, layer by layer.
 
 ### Free Courses Tied to Papers
 - **[Stanford CS231n](http://cs231n.stanford.edu/)** — Vision.
@@ -206,6 +215,7 @@ The sections below follow the lifecycle of a paper. Use the table of contents to
 - **[Spinning Up in Deep RL](https://spinningup.openai.com/)** — OpenAI.
 - **[Neural Networks: Zero to Hero](https://karpathy.ai/zero-to-hero.html)** — Karpathy's build-from-scratch series (micrograd, GPT, tokenizer).
 - **[MIT 6.S191](http://introtodeeplearning.com/)** — Intro to Deep Learning; refreshed yearly.
+- **[Stanford CS25: Transformers United](https://web.stanford.edu/class/cs25/)** — Guest-lecture seminar; talks posted free on YouTube.
 - **[DeepLearning.AI Specializations](https://www.deeplearning.ai/courses/)** — Andrew Ng's course catalog (audit free).
 
 <sub><a href="#-table-of-contents">⬆ Back to top</a></sub>
@@ -273,6 +283,7 @@ The sections below follow the lifecycle of a paper. Use the table of contents to
 - **[Hugging Face Models](https://huggingface.co/models)** — Often the fastest path to weights.
 - **[Hugging Face Datasets](https://huggingface.co/datasets)**
 - **[GitHub Trending](https://github.com/trending)** — Where research code lives.
+- **[Replicate](https://replicate.com/)** — Run and fine-tune published models in the cloud with one line of code.
 
 ### Reproducibility
 - **[ML Reproducibility Challenge](https://reproml.org/)** — Annual replication effort; an official NeurIPS 2026 track.
@@ -327,6 +338,7 @@ Each subfield below links to maintained **awesome lists** that cover the area in
 - [Awesome-LLM-Long-Context-Modeling](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling) — Long-context attention and memory architectures.
 - [Awesome-Mixture-of-Experts](https://github.com/XueFuzhao/awesome-mixture-of-experts) — MoE architectures (Switch, GShard, Mixtral, DeepSeek-MoE).
 - [Awesome-Prompt-Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering) — Prompting techniques and surveys.
+- [Awesome-Code-LLM](https://github.com/huybery/Awesome-Code-LLM) — Code generation models, benchmarks, and surveys.
 - arXiv: [cs.CL](https://arxiv.org/list/cs.CL/recent) · venue: [ACL Anthology](https://aclanthology.org/)
 
 ### 🤖 AI Agents & Autonomous Systems
@@ -489,6 +501,8 @@ Each subfield below links to maintained **awesome lists** that cover the area in
 - **[τ-bench](https://github.com/sierra-research/tau-bench)** — Sierra's tool-agent-user interaction benchmark.
 - **[Aider Polyglot](https://aider.chat/docs/leaderboards/)** — Code-editing leaderboard across multiple languages.
 - **[ARC-AGI](https://arcprize.org/leaderboard)** — Abstraction and reasoning corpus; François Chollet.
+- **[Humanity's Last Exam](https://lastexam.ai/)** — 2,500 frontier expert questions across 100+ subjects (CAIS + Scale).
+- **[Artificial Analysis](https://artificialanalysis.ai/)** — Independent model comparison across quality, speed, and price.
 
 ### Free Compute
 - **[Google Colab](https://colab.research.google.com/)** — Free GPU tier.
