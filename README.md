@@ -306,6 +306,7 @@ The sections below follow the lifecycle of a paper. Use the table of contents to
 - **[AlphaSignal](https://alphasignal.ai/)** — Daily technical digest.
 - **[TLDR AI](https://tldr.tech/ai)** — Daily 5-minute AI brief.
 - **[Smol AI / AI News](https://news.smol.ai/)** — Daily aggregator of AI Twitter, Discords, and Reddit (Swyx).
+- **[AIHOT Daily](https://aihot.news/daily)** — Free Chinese daily digest covering AI research, model releases, and industry developments.
 - **[The Sequence](https://thesequence.substack.com/)** — Research deep dives.
 - **[Last Week in AI](https://lastweekin.ai/)** — Newsletter + podcast.
 - **[Ahead of AI](https://magazine.sebastianraschka.com/)** — Sebastian Raschka.
